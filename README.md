@@ -1,0 +1,2 @@
+# TA_Python_API
+Demonstrate techniques to use Python scripts to visualize the weather of 500+ cities across the world of varying distance from the equator. Utilizing a simple Python library, the OpenWeatherMap API, and a Pandas data munging learned earlier to create a model of weather across world cities. This repository was created to assist DataViz students in understanding and applying Python techniques.
